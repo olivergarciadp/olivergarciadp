@@ -32,6 +32,8 @@
 <p><a href="https://www.buymeacoffee.com/olivergarciadp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="olivergarciadp" /></a><a href="https://ko-fi.com/olivergarciadp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="olivergarciadp" /></a></p><br><br>
 &nbsp;&nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olivergarciadp&show_icons=true&locale=en" alt="olivergarciadp" /></p>
+
+<img align="left" alt="Coding" width="400" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76118dd2d0dbda31bb3b8cf0255bcc833fa294ddb5b7&rid=giphy.gif&ct=g">
 <!---
 olivergarciadp/olivergarciadp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
