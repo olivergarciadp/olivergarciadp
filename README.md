@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivergarciadp&label=Profile%20views&color=0e75b6&style=flat" alt="olivergarciadp" /> </p>
 
-- 🔭 I’m currently working on **C3Max**
+- 🔭 I’m currently working on **SDSharp - C3Max / FullTimeForce**
 
 - 🌱 I’m currently learning **WebRTC, AI**
 
