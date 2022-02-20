@@ -33,7 +33,7 @@
 &nbsp;&nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olivergarciadp&show_icons=true&locale=en" alt="olivergarciadp" /></p>
 
-<img align="left" alt="Coding" width="400" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76118dd2d0dbda31bb3b8cf0255bcc833fa294ddb5b7&rid=giphy.gif&ct=g">
+<img align="left" alt="Coding" width="400" src="https://media1.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif?cid=790b7611e8e7dbeafb345e17fb4bef901cc59017eea17cdc&rid=giphy.gif&ct=g">
 <!---
 olivergarciadp/olivergarciadp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
